@@ -205,4 +205,4 @@ Yes, you will receive regular updates to enhance performance and add new feature
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-04 17:24:00 UTC
+**Last updated:** 2026-10-04 21:09:02 UTC
